@@ -1,5 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrgrd56&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![](https://github.com/MRGRD56/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/MRGRD56/github-stats/blob/master/templates/overview.svg)
+
 ![qwe](/d.png)
 
 <!--

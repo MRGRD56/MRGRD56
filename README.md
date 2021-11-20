@@ -41,7 +41,7 @@
              alt="csharp" width="40" height="40"/>
     </a>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg"
              alt="dotnet" width="40" height="40"/>
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">

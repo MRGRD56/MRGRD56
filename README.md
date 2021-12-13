@@ -103,3 +103,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### [My Useful Apps](https://mrgrd56.github.io/)
+- [Online Color Picker](https://mrgrd56.github.io/online-color-picker/) *(pick colors from an image)*
+- [Simple Background Generator](https://mrgrd56.github.io/bg-generator/) *(generate a background with a specified color and size)*

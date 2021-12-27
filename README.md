@@ -107,8 +107,8 @@ Here are some ideas to get you started:
 ### My Useful Apps
 
 #### [Web Apps](https://mrgrd56.github.io/)
-- [Online Color Picker](https://mrgrd56.github.io/online-color-picker/) *(pick colors from an image)*
-- [Simple Background Generator](https://mrgrd56.github.io/bg-generator/) *(generate a background with a specified color and size)*
+- [Online Color Picker](https://github.com/MRGRD56/online-color-picker) [🚀](https://mrgrd56.github.io/online-color-picker/) *(pick colors from an image)*
+- [Simple Background Generator](https://github.com/MRGRD56/bg-generator) [🚀](https://mrgrd56.github.io/bg-generator/) *(generate a background with a specified color and size)*
 
 #### Libraries
 ##### Node

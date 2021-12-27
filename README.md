@@ -104,21 +104,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My Useful Apps
+## My Useful Apps
 > *the rockets are clickable*
 
-#### [Web Apps](https://mrgrd56.github.io/)
+### [Web Apps](https://mrgrd56.github.io/)
 - [Online Color Picker](https://github.com/MRGRD56/online-color-picker) [🚀](https://mrgrd56.github.io/online-color-picker/) *(pick colors from an image)*
 - [Simple Background Generator](https://github.com/MRGRD56/bg-generator) [🚀](https://mrgrd56.github.io/bg-generator/) *(generate a background with a specified color and size)*
 
-#### Desktop Apps
+### Desktop Apps
 - [FastVolumeChanger](https://github.com/MRGRD56/FastVolumeChanger) *(change the volume even more easily)*
 - [RealTimeTranslator](https://github.com/MRGRD56/RealTimeTranslator) *(translate any text from your screen, with OCR)*
 
-#### Libraries
-##### Node
+### Libraries
+#### Node
 - [Remote Logger](https://github.com/MRGRD56/remote-logger) [🚀](https://www.npmjs.com/package/@mrgrd56/remote-logger)[🚀](https://www.npmjs.com/package/@mrgrd56/remote-logger-server) *(use remote logging in your app)*
-##### .NET
+#### .NET
 - [ConsolePassword](https://github.com/MRGRD56/ConsolePassword) [🚀](https://www.nuget.org/packages/ConsolePassword/) *(enter your password the console securely)*
 - [JwtAuth](https://github.com/MRGRD56/JwtAuth) [🚀](https://www.nuget.org/packages/MRGRD56.JwtAuth/) *(use JWT authorization easier in ASP.NET Core)*
 - [JsonHttpClient](https://github.com/MRGRD56/JsonHttpClient) [🚀](https://www.nuget.org/packages/MRGRD56.JsonHttpClient) *(extensions for `HttpClient` to work with JSON)*

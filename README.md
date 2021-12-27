@@ -113,3 +113,6 @@ Here are some ideas to get you started:
 #### Libraries
 ##### Node
 - [Remote Logger](https://github.com/MRGRD56/remote-logger) *(use remote logging in your app)*
+##### .NET
+- [ConsolePassword](https://github.com/MRGRD56/ConsolePassword) *(enter your password the console securely)*
+- [JwtAuth](https://github.com/MRGRD56/JwtAuth) *(use JWT authorization easier in ASP.NET Core)*

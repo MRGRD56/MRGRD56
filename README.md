@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 #### Node
 - [Remote Logger](https://github.com/MRGRD56/remote-logger) [🚀](https://www.npmjs.com/package/@mrgrd56/remote-logger)[🚀](https://www.npmjs.com/package/@mrgrd56/remote-logger-server) *(use remote logging in your app)*
 #### .NET
-- [ConsolePassword](https://github.com/MRGRD56/ConsolePassword) [🚀](https://www.nuget.org/packages/ConsolePassword/) *(enter your password the console securely)*
+- [ConsolePassword](https://github.com/MRGRD56/ConsolePassword) [🚀](https://www.nuget.org/packages/ConsolePassword/) *(enter your password into the console securely)*
 - [JwtAuth](https://github.com/MRGRD56/JwtAuth) [🚀](https://www.nuget.org/packages/MRGRD56.JwtAuth/) *(use JWT authorization easier in ASP.NET Core)*
 - [JsonHttpClient](https://github.com/MRGRD56/JsonHttpClient) [🚀](https://www.nuget.org/packages/MRGRD56.JsonHttpClient) *(extensions for `HttpClient` to work with JSON)*
 - [BitmapTools](https://github.com/MRGRD56/BitmapTools) [🚀](https://www.nuget.org/packages/BitmapTools/)[🚀](https://www.nuget.org/packages/BitmapTools.Wpf/) *(extensions for `System.Drawing` and WPF images)*

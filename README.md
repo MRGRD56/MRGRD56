@@ -31,6 +31,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
              alt="sass" width="40" height="40"/>
     </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+             alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+             alt="express" width="40" height="40"/>
+    </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg"
              alt="angular" width="40" height="40"/>
@@ -42,6 +50,10 @@
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg"
              alt="dotnet" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+             width="40" height="40"/>
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -72,13 +84,30 @@
              alt="postman" width="40" height="40"/>
     </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-            alt="sqlite" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+             alt="sqlite" width="40" height="40"/>
     </a>
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
              alt="xamarin" width="40" height="40"/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
+             alt="bash" width="40" height="40"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+             alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+    </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+             alt="vuejs" width="40" height="40"/>
+    </a>
+    <a href="https://heroku.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
     </a>
 </p>
 

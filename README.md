@@ -123,3 +123,5 @@ Here are some ideas to get you started:
 - [JwtAuth](https://github.com/MRGRD56/JwtAuth) [🚀](https://www.nuget.org/packages/MRGRD56.JwtAuth/) *(use JWT authorization easier in ASP.NET Core)*
 - [JsonHttpClient](https://github.com/MRGRD56/JsonHttpClient) [🚀](https://www.nuget.org/packages/MRGRD56.JsonHttpClient) *(extensions for `HttpClient` to work with JSON)*
 - [BitmapTools](https://github.com/MRGRD56/BitmapTools) [🚀](https://www.nuget.org/packages/BitmapTools/)[🚀](https://www.nuget.org/packages/BitmapTools.Wpf/) *(extensions for `System.Drawing` and WPF images)*
+#### Java
+- [Java Data Validator](https://github.com/MRGRD56/java-data-validator) *(validate your data)*

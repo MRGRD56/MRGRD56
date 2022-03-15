@@ -139,6 +139,7 @@ Here are some ideas to get you started:
 ### [Web Apps](https://mrgrd56.github.io/)
 - [Online Color Picker](https://github.com/MRGRD56/online-color-picker) [🚀](https://mrgrd56.github.io/online-color-picker/) *(pick colors from an image)*
 - [Simple Background Generator](https://github.com/MRGRD56/bg-generator) [🚀](https://mrgrd56.github.io/bg-generator/) *(generate a background with a specified color and size)*
+- [JSON Stringifier](https://github.com/MRGRD56/json-stringifier) [🚀](https://mrgrd56.github.io/json-stringifier/) *(convert a text to a JSON string)*
 
 ### Desktop Apps
 - [FastVolumeChanger](https://github.com/MRGRD56/FastVolumeChanger) *(change the volume even more easily)*

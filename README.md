@@ -141,6 +141,7 @@ Here are some ideas to get you started:
 - [Simple Background Generator](https://github.com/MRGRD56/bg-generator) [🚀](https://mrgrd56.github.io/bg-generator/) *(generate a background with a specified color and size)*
 - [JSON Stringifier](https://github.com/MRGRD56/mrgrd56.github.io/tree/master/src/pages/jsonStringifierPage) [🚀](https://mrgrd56.github.io/#/tools/json-stringifier) *(convert a text to a JSON string)*
 - [QR Scanner](https://github.com/MRGRD56/mrgrd56.github.io/tree/master/src/pages/qrScannerPage) [🚀](https://mrgrd56.github.io/#/tools/qr-scanner) *(scan QR code from image)*
+- [JSON to TypeScript](https://github.com/MRGRD56/mrgrd56.github.io/tree/master/src/pages/jsonToTypeScriptPage) [🚀](https://mrgrd56.github.io/#/tools/json-to-typescript) *(convert your JSON to TypeScript)*
 
 ### Desktop Apps
 - [FastVolumeChanger](https://github.com/MRGRD56/FastVolumeChanger) *(change the volume even more easily)*

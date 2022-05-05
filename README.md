@@ -134,14 +134,18 @@ Here are some ideas to get you started:
 -->
 
 ## My Useful Apps
-> *the rockets are clickable*
+> *Click on the app name to go to the repository*  
+> *You can go to the app/library itself by clicking on the rocket 🚀*  
+> *I marked my best apps with stars ⭐⭐⭐*
+
+Check out my website [mrgrd56.github.io](https://mrgrd56.github.io/), where you can find various useful tools for development and more!
 
 ### [Web Apps](https://mrgrd56.github.io/)
-- [Online Color Picker](https://github.com/MRGRD56/online-color-picker) [🚀](https://mrgrd56.github.io/online-color-picker/) *(pick colors from an image)*
-- [Simple Background Generator](https://github.com/MRGRD56/bg-generator) [🚀](https://mrgrd56.github.io/bg-generator/) *(generate a background with a specified color and size)*
+- [⭐ Online Color Picker ⭐](https://github.com/MRGRD56/online-color-picker) [🚀](https://mrgrd56.github.io/online-color-picker/) *(pick colors from an image)*
+- [⭐ JSON to TypeScript ⭐](https://github.com/MRGRD56/mrgrd56.github.io/tree/master/src/pages/jsonToTypeScriptPage) [🚀](https://mrgrd56.github.io/#/tools/json-to-typescript) *(convert your JSON to TypeScript types)*
+- [Simple Background Generator](https://github.com/MRGRD56/mrgrd56.github.io/tree/master/src/pages/bgGeneratorPage) [🚀](https://mrgrd56.github.io/#/tools/bg-generator) *(generate a background with a specified color and size)*
 - [JSON Stringifier](https://github.com/MRGRD56/mrgrd56.github.io/tree/master/src/pages/jsonStringifierPage) [🚀](https://mrgrd56.github.io/#/tools/json-stringifier) *(convert a text to a JSON string)*
 - [QR Scanner](https://github.com/MRGRD56/mrgrd56.github.io/tree/master/src/pages/qrScannerPage) [🚀](https://mrgrd56.github.io/#/tools/qr-scanner) *(scan QR code from image)*
-- [JSON to TypeScript](https://github.com/MRGRD56/mrgrd56.github.io/tree/master/src/pages/jsonToTypeScriptPage) [🚀](https://mrgrd56.github.io/#/tools/json-to-typescript) *(convert your JSON to TypeScript)*
 
 ### Desktop Apps
 - [FastVolumeChanger](https://github.com/MRGRD56/FastVolumeChanger) *(change the volume even more easily)*

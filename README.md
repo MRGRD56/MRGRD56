@@ -32,11 +32,12 @@
              alt="sass" width="40" height="40"/>
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-             width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+             alt="java" width="40" height="40"/>
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" 
+             alt="spring" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -58,9 +59,17 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg"
              alt="dotnet" width="40" height="40"/>
     </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-             alt="figma" width="40" height="40"/>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
+             alt="postgresql" width="40" height="40"/> 
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
+             alt="mongodb" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+             alt="mssql" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -74,9 +83,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
              alt="linux" width="40" height="40"/>
     </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-             alt="mssql" width="40" height="40"/>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+             alt="docker" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+             alt="figma" width="40" height="40"/>
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg"

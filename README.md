@@ -129,7 +129,7 @@
 ![](https://github.com/MRGRD56/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/MRGRD56/github-stats/blob/master/generated/languages.svg)
 
-![qwe](/d.png)
+![QR Code](/e.svg)
 
 <!--
 **MRGRD56/MRGRD56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

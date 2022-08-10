@@ -174,3 +174,16 @@ Check out my website [mrgrd56.github.io](https://mrgrd56.github.io/), where you 
 - [BitmapTools](https://github.com/MRGRD56/BitmapTools) [🚀](https://www.nuget.org/packages/BitmapTools/)[🚀](https://www.nuget.org/packages/BitmapTools.Wpf/) *(extensions for `System.Drawing` and WPF images)*
 #### Java
 - [Java Data Validator](https://github.com/MRGRD56/java-data-validator) *(validate your data)*
+
+---
+
+### Links
+
+<a href="https://t.me/MRGRD56" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
+         alt="Telegram" width="40" height="40"/>
+</a>
+<a href="https://www.codewars.com/users/MRGRD56" target="_blank" rel="noreferrer">
+    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg"
+         alt="Codewars" width="40" height="40"/>
+</a>

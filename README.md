@@ -54,7 +54,11 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
              alt="mongodb" width="40" height="40"/> 
-    </a> 
+    </a>
+    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" 
+             alt="electron" width="40" height="40"/> 
+    </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg"
              alt="angular" width="40" height="40"/>
@@ -64,7 +68,7 @@
              alt="csharp" width="40" height="40"/>
     </a>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"
              alt="dotnet" width="40" height="40"/>
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">

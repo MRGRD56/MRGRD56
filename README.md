@@ -167,6 +167,7 @@ Check out my website [mrgrd56.github.io](https://mrgrd56.github.io/), where you 
 ### Desktop Apps
 - [FastVolumeChanger](https://github.com/MRGRD56/FastVolumeChanger) *(change the volume even more easily)*
 - [RealTimeTranslator](https://github.com/MRGRD56/RealTimeTranslator) *(translate any text from your screen, with OCR)*
+- [Textractor Translator](https://github.com/MRGRD56/textractor-translator) *(translate visual novels in real time extracting the text directly from the game)*
 
 ### Libraries
 #### Node

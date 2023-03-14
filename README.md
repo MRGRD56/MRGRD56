@@ -1,3 +1,48 @@
+![](https://api.mrgrd56.ru/image/color/0xf44336?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xe91e63?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x9c27b0?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x673ab7?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x3f51b5?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x2196f3?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x03a9f4?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x00bcd4?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x009688?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x4caf50?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x8bc34a?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xcddc39?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xffeb3b?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xffc107?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xff9800?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xff5722?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xf44336?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xe91e63?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x9c27b0?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x673ab7?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x3f51b5?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x2196f3?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x03a9f4?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x00bcd4?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x009688?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x4caf50?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x8bc34a?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xcddc39?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xffeb3b?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xffc107?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xff9800?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xff5722?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xf44336?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xe91e63?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x9c27b0?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x673ab7?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x3f51b5?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x2196f3?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x03a9f4?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x00bcd4?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x009688?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x4caf50?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0x8bc34a?s=12x3)
+![](https://api.mrgrd56.ru/image/color/0xcddc39?s=12x3)
+
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -161,27 +206,27 @@ Here are some ideas to get you started:
 
 Check out my website [mrgrd56.github.io](https://mrgrd56.github.io/), where you can find various useful tools for development and more!
 
-### [Web Apps](https://mrgrd56.github.io/)
+### [![](https://api.mrgrd56.ru/image/color/0x2196f3?s=15) Web Apps](https://mrgrd56.github.io/)
 - [⭐ Online Color Picker ⭐](https://github.com/MRGRD56/online-color-picker) [🚀](https://mrgrd56.github.io/online-color-picker/) *(pick colors from an image)*
 - [⭐ JSON to TypeScript ⭐](https://github.com/MRGRD56/mrgrd56.github.io/tree/master/src/pages/jsonToTypeScriptPage) [🚀](https://mrgrd56.github.io/#/tools/json-to-typescript) *(convert your JSON to TypeScript types)*
 - [Simple Background Generator](https://github.com/MRGRD56/mrgrd56.github.io/tree/master/src/pages/bgGeneratorPage) [🚀](https://mrgrd56.github.io/#/tools/bg-generator) *(generate a background with a specified color and size)*
 - [JSON Stringifier](https://github.com/MRGRD56/mrgrd56.github.io/tree/master/src/pages/jsonStringifierPage) [🚀](https://mrgrd56.github.io/#/tools/json-stringifier) *(convert a text to a JSON string)*
 - [QR Scanner](https://github.com/MRGRD56/mrgrd56.github.io/tree/master/src/pages/qrScannerPage) [🚀](https://mrgrd56.github.io/#/tools/qr-scanner) *(scan QR code from image)*
 
-### Desktop Apps
+### ![](https://api.mrgrd56.ru/image/color/0x2196f3?s=15) Desktop Apps
 - [FastVolumeChanger](https://github.com/MRGRD56/FastVolumeChanger) *(change the volume even more easily)*
 - [RealTimeTranslator](https://github.com/MRGRD56/RealTimeTranslator) *(translate any text from your screen, with OCR)*
 - [Textractor Translator](https://github.com/MRGRD56/textractor-translator) *(translate visual novels in real time extracting the text directly from the game)*
 
-### Libraries
-#### Node
+### ![](https://api.mrgrd56.ru/image/color/0x2196f3?s=15) Libraries
+#### ![](https://api.mrgrd56.ru/image/color/0x4caf50?s=11) Node
 - [Remote Logger](https://github.com/MRGRD56/remote-logger) [🚀](https://www.npmjs.com/package/@mrgrd56/remote-logger)[🚀](https://www.npmjs.com/package/@mrgrd56/remote-logger-server) *(use remote logging in your app)*
-#### .NET
+#### ![](https://api.mrgrd56.ru/image/color/0x673ab7?s=11) .NET
 - [ConsolePassword](https://github.com/MRGRD56/ConsolePassword) [🚀](https://www.nuget.org/packages/ConsolePassword/) *(enter your password into the console securely)*
 - [JwtAuth](https://github.com/MRGRD56/JwtAuth) [🚀](https://www.nuget.org/packages/MRGRD56.JwtAuth/) *(use JWT authorization easier in ASP.NET Core)*
 - [JsonHttpClient](https://github.com/MRGRD56/JsonHttpClient) [🚀](https://www.nuget.org/packages/MRGRD56.JsonHttpClient) *(extensions for `HttpClient` to work with JSON)*
 - [BitmapTools](https://github.com/MRGRD56/BitmapTools) [🚀](https://www.nuget.org/packages/BitmapTools/)[🚀](https://www.nuget.org/packages/BitmapTools.Wpf/) *(extensions for `System.Drawing` and WPF images)*
-#### Java
+#### ![](https://api.mrgrd56.ru/image/color/0xff9800?s=11) Java
 - [Java Data Validator](https://github.com/MRGRD56/java-data-validator) *(validate your data)*
 
 ---

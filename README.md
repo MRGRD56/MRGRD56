@@ -370,7 +370,7 @@ Check out my website [mrgrd56.github.io](https://mrgrd56.github.io/), where you 
 ### ![](https://api.mrgrd56.ru/image/color/0x2196f3?s=15) Desktop Apps
 - [FastVolumeChanger](https://github.com/MRGRD56/FastVolumeChanger) *(change the volume even more easily)*
 - [RealTimeTranslator](https://github.com/MRGRD56/RealTimeTranslator) *(translate any text from your screen, with OCR)*
-- [Textractor Translator](https://github.com/MRGRD56/textractor-translator) *(translate visual novels in real time extracting the text directly from the game)*
+- [⭐ Textractor Translator ⭐](https://github.com/MRGRD56/textractor-translator) *(translate visual novels in real time extracting the text directly from the game)*
 
 ### ![](https://api.mrgrd56.ru/image/color/0x2196f3?s=15) Libraries
 #### ![](https://api.mrgrd56.ru/image/color/0x4caf50?s=11) Node
@@ -381,7 +381,7 @@ Check out my website [mrgrd56.github.io](https://mrgrd56.github.io/), where you 
 - [JsonHttpClient](https://github.com/MRGRD56/JsonHttpClient) [🚀](https://www.nuget.org/packages/MRGRD56.JsonHttpClient) *(extensions for `HttpClient` to work with JSON)*
 - [BitmapTools](https://github.com/MRGRD56/BitmapTools) [🚀](https://www.nuget.org/packages/BitmapTools/)[🚀](https://www.nuget.org/packages/BitmapTools.Wpf/) *(extensions for `System.Drawing` and WPF images)*
 #### ![](https://api.mrgrd56.ru/image/color/0xff9800?s=11) Java
-- [MG Utils](https://github.com/MRGRD56/mgutils) [🚀](https://central.sonatype.com/artifact/ru.mrgrd56/mgutils) *(Common Java Utils)*
+- [⭐ MG Utils ⭐](https://github.com/MRGRD56/mgutils) [🚀](https://central.sonatype.com/artifact/ru.mrgrd56/mgutils) *(Common Java Utils)*
 - [Java Data Validator](https://github.com/MRGRD56/java-data-validator) *(validate your data)*
 
 ---

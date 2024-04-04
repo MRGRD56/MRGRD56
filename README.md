@@ -397,6 +397,6 @@ Check out my website [mrgrd56.github.io](https://mrgrd56.github.io/), where you 
          alt="Telegram" width="40" height="40"/>
 </a>
 <a href="https://www.codewars.com/users/MRGRD56" target="_blank" rel="noreferrer">
-    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg"
+    <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"
          alt="Codewars" width="40" height="40"/>
 </a>

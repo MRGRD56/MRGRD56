@@ -358,8 +358,8 @@ Here are some ideas to get you started:
 -->
 
 ## My Useful Apps
-> *Click on the app name to go to the repository*  
-> *You can go to the app/library itself by clicking on the rocket 🚀*  
+> *Click an app name to go to the repository*  
+> *You can go to an app/library itself by clicking the rocket 🚀*  
 > *I marked my best apps with stars ⭐⭐⭐*
 
 Check out my website [mrgrd56.github.io](https://mrgrd56.github.io/), where you can find various useful tools for development and more!

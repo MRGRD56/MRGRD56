@@ -362,7 +362,7 @@ Here are some ideas to get you started:
 > *You can go to an app/library itself by clicking the rocket 🚀*  
 > *I marked my best apps with stars ⭐⭐⭐*
 
-Check out my website [mrgrd56.github.io](https://mrgrd56.github.io/), where you can find various useful tools for development and more!
+Check out my website [kiriru.su](https://mrgrd56.github.io/), where you can find various useful tools for development and more!
 
 ### [![](https://api.mrgrd56.ru/image/color/0x2196f3?s=15) Web Apps](https://mrgrd56.github.io/)
 - [⭐ Online Color Picker ⭐](https://github.com/MRGRD56/online-color-picker) [🚀](https://mrgrd56.github.io/online-color-picker/) *(pick colors from an image)*

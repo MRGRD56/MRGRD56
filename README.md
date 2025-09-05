@@ -400,3 +400,7 @@ Check out my website [kiriru.su](https://mrgrd56.github.io/), where you can find
     <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"
          alt="Codewars" width="40" height="40"/>
 </a>
+<a href="https://huggingface.co/MRGRD56" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg"
+         alt="Hugging Face" width="40" height="40"/>
+</a>

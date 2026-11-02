@@ -345,8 +345,6 @@
 ![](https://github.com/MRGRD56/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/MRGRD56/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
-[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
-
 <!--
 ![QR Code](/e.svg)
 -->
